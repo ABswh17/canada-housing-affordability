@@ -15,7 +15,7 @@
 
 ## 📊 Live Dashboard
 
-![Data Overview](docs/screenshots/1.Data Overview.jpg)
+![Data Overview](docs/screenshots/01_overview.jpg)
 
 **[ ▶ View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/d18831b6-e2e0-43d4-9aec-51913d878bb1/beccf6fb82950b24c460?experience=power-bi)**
 
@@ -42,7 +42,7 @@ by using Canadian housing market data:
 
 ### Finding 1: BC Tax Did NOT Constrain Vancouver Rents
 
-![Policy Impact](docs/screenshots/2.Policy Imapct.jpg)
+![Policy Impact](docs/screenshots/02_policy_impact.jpg)
 
 | Metric | Value | Interpretation                              |
 |--------|-------|---------------------------------------------|
@@ -59,7 +59,7 @@ likely overwhelmed any dampening effect the tax might have had.
 
 ### Finding 2: A/B Test Recommends Adopting Version B
 
-![A/B Test Results](docs/screenshots/3.AB test.jpg)
+![A/B Test Results](docs/screenshots/03_ab_test.jpg)
 
 | Metric | Group A | Group B | Lift | P-value | Effect Size |
 |--------|---------|---------|------|---------|-------------|
